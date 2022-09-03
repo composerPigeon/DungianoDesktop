@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDAagDWrTqB+fuxl5+1Q4ppugEWTj90OVJCTXNlwVETusEM66/xLkAaRYDCYRl1PJz30b/kwYe21TdDuLIdCiA==",
+  "success": true,
+  "projectFilePath": "/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/DungianoDesktop.csproj",
+  "expectedPackageFiles": [
+    "/Users/Pepa/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/Pepa/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

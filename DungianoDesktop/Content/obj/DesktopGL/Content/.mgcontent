@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/arial.spritefont</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/ArrowR/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/ArrowR/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/ArrowR/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Back/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Back/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Back/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Levels/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Levels/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Levels/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/MainMenu/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/MainMenu/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/MainMenu/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/1/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/1/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/1/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/1/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/10/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/10/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/10/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/10/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/11/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/11/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/11/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/11/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/12/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/12/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/12/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/12/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/2/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/2/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/2/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/2/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/3/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/3/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/3/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/3/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/4/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/4/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/4/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/4/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/5/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/5/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/5/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/5/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/6/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/6/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/6/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/6/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/7/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/7/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/7/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/7/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/8/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/8/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/8/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/8/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/9/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/9/grey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/9/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Numbers/9/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Play/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Play/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Play/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/PlayAgain/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/PlayAgain/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/PlayAgain/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Quit/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Quit/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Quit/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/QuitLarge/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/QuitLarge/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/QuitLarge/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Resume/darker.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Resume/lighter.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Buttons/Resume/normal.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/Cleaner/01.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/Cleaner/02.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/FatCleaner/01.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/FatCleaner/02.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/FollowingCleaner/01.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/FollowingCleaner/02.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/Player/Tough_guy_2.0_1.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/Player/Tough_guy_2.0_2.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/Player/Tough_guy_2.0_3.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/Player/Tough_guy_2.0_4.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Characters/Player/Tough_guy_2.0_5.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Inventory/inventGoldKey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Inventory/inventGreyKey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/MenuBackgrounds/dieMenuBackground.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/MenuBackgrounds/finishMenuBackground.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/MenuBackgrounds/menuBackground.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/MenuBackgrounds/pauseMenuBackground.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/doorClose.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/doorOpen.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/doorOpenR1.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/doorOpenR2.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/doorOpenR3.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/finalDoorClose.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/goldKey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/gramophone.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/greyKey.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/note.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Basoon.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Cello.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Clarinet.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Flute.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/French_horn.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Guitar.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Saxophone.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/TranverseFlute.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Trombone.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Trumpet.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Tube.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Objects/Weapons/Violin.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Rooms/hall.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Rooms/r1.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Rooms/r2.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/Rooms/r3.png</File>
+    <File>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/xugglybug.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Characters/Player/01.png</File>
+    <File>Characters/Player/02.png</File>
+    <File>Characters/Player/03.png</File>
+    <File>Characters/Player/04.png</File>
+    <File>Characters/Player/05.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

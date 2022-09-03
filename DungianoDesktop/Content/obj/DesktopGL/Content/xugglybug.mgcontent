@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/xugglybug.spritefont</SourceFile>
+  <SourceTime>2022-08-28T13:10:54.519491+02:00</SourceTime>
+  <DestFile>/Users/Pepa/Documents/MFF/Prog2/DungianoDesktop/DungianoDesktop/Content/bin/DesktopGL/Content/xugglybug.xnb</DestFile>
+  <DestTime>2022-08-28T13:11:08.5924671+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
